@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💼 Rafael Angelo Costa
 
-<!--
-**RafaelAngeloCosta/rafaelangelocosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Desenvolvedor especializado em automação web e pós-graduado em tecnologia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre Mim
+
+Desenvolvedor com experiência em automação e diversas linguagens, apaixonado por otimizar processos e criar soluções eficazes.
+
+## 🚀 Principais Projetos
+
+- **[pgats-trab-conclusao-autom-web](https://github.com/RafaelAngeloCosta/pgats-trab-conclusao-autom-web)**: Projeto de automação para conclusão de curso.
+- **[Outro Projeto Importante](#)**: Breve descrição do projeto.
+
+## 🛠️ Skills
+
+- **Linguagens**: JavaScript, Python
+- **Frameworks**: Cypress, Selenium
+- **Ferramentas**: Git, Docker, CI/CD
+
+## 📫 Contato
+
+[[LinkedIn](https://www.linkedin.com/in/rafaelangelodacosta/)](#) | [E-mail](rafa.angelo9@gmail.com)
