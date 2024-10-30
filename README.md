@@ -17,8 +17,8 @@ Desenvolvedor com experiência em automação e diversas linguagens, apaixonado 
 
 - **Linguagens**: JavaScript, Python
 - **Frameworks**: Cypress, Selenium
-- **Ferramentas**: Git, Docker, CI/CD
+- **Ferramentas**:  Git bast, Git Actions, CI/CD , Visual Studio , Maven, Jira, TestLink, Postman, SoapUI, UFT ONE, .
 
 ## 📫 Contato
 
-[[LinkedIn](https://www.linkedin.com/in/rafaelangelodacosta/)](#) | [E-mail](rafa.angelo9@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rafaelangelodacosta/) | [E-mail](rafa.angelo9@gmail.com)
