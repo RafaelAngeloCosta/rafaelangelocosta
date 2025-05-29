@@ -16,7 +16,7 @@ Desenvolvedor com experiência em automação e diversas linguagens, apaixonado 
 ## 🛠️ Skills
 
 - **Linguagens**: JavaScript, Python
-- **Frameworks**: Cypress, Selenium
+- **Frameworks**: Cypress, Selenium, Robot Framework (Selenium - RPA.Desktop - RPA.Windows )
 - **Ferramentas**:  Git bast, Git Actions, CI/CD , Visual Studio , Maven, Jira, TestLink, Postman, SoapUI, UFT ONE, .
 
 ## 📫 Contato
