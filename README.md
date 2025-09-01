@@ -1,12 +1,12 @@
 # 💼 Rafael Angelo Costa
 
-> Desenvolvedor especializado em automação web e pós-graduado em tecnologia.
+>  QA Engineer especializado em automação web e pós-graduado em tecnologia.
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor com experiência em automação e diversas linguagens, apaixonado por otimizar processos e criar soluções eficazes.
+ QA Engineer com experiência em automação e diversas linguagens, apaixonado por otimizar processos e criar soluções eficazes.
 
 ## 🚀 Principais Projetos
 
