@@ -1,4 +1,4 @@
-# 💼 Rafael Angelo Costa
+# 💼 Rafael Angelo da Costa
 
 >  QA Engineer especializado em automação web e pós-graduado em tecnologia.
 
